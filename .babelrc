@@ -1,0 +1,4 @@
+{
+  "presets": ["react-native"],
+  "ignore": ["/node_modules/lightstreamer-client"]
+}

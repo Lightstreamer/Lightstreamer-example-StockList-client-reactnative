@@ -1,0 +1,17 @@
+{
+    "name": "StockList",
+    "version": "1.0.0",
+    "description": "A simple integration between the Lightstreamer JavaScript Client Library (Node.js version) and React Native",
+    "private": true,
+    "scripts": {
+        "start": "node node_modules/react-native/local-cli/cli.js start"
+    },
+    "dependencies": {
+        "react": "^0.14.7",
+        "react-native": "^0.22.2",
+        "lightstreamer-client": "~6.2.7"
+    },
+    "author": "Lightstreamer Srl",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/Lightstreamer/Lightstreamer-example-StockList-client-reactnative"
+}
