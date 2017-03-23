@@ -7,7 +7,7 @@ This project contains a demo application showing the integration between the Lig
 ## Live Demo
 
 [![screenshot](screen_stocklist_large.png)](https://itunes.apple.com/us/app/lightstreamer-stock-list-react/id1099185766?l=it&ls=1&mt=8)<br>
-###[![](http://demos.lightstreamer.com/site/img/play.png) View live demo](https://itunes.apple.com/us/app/lightstreamer-stock-list-react/id1099185766?l=it&ls=1&mt=8)<br>
+### [![](http://demos.lightstreamer.com/site/img/play.png) View live demo](https://itunes.apple.com/us/app/lightstreamer-stock-list-react/id1099185766?l=it&ls=1&mt=8)<br>
 
 ## Details
 
