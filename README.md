@@ -4,8 +4,6 @@
 
 This project contains a demo application showing the integration between the Lightstreamer Client Library and React Native.
 
-## Live Demo
-
 ![screenshot](screen_stocklist_large.png)<br>
 
 ## Details
